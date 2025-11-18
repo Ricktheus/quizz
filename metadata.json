@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Quiz Generator",
+  "description": "Create and share custom quizzes on any topic, powered by Gemini. This application allows you to generate a quiz, which others can then take while their completion time is recorded.",
+  "requestFramePermissions": []
+}
